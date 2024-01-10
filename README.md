@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README.md file that you can use for your GitHub repository:
 
----
 
 # Automated Kidney Disease Detection in Medical Images
 
